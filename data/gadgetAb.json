@@ -1,0 +1,60 @@
+{
+  "blogs": [
+    {
+      "name": "Apple",
+      "model": "Iphone 14",
+      "year": 2022,
+      "description": "The iPhone 14 and the iPhone 14 Plus are Apple's affordable flagship iPhones with pricing starting at $799 and the devices are being sold alongside the more expensive iPhone 14 Pro and iPhone 14 Pro Max. Apple did away with the mini iPhone in 2022 and the iPhone 14 models come in 6.1- and 6.7-inch sizes. The new 6.7-inch iPhone 14 is called the harkening back to the iPhone 8 and 8 Plus and prior generations. Apple's iPhone 14 models are identical in design to the iPhone 13 models featuring flat edges an aerospace grade aluminum enclosure and a glass back that enables wireless charging.",
+      "id": 1
+    },
+    {
+      "name": "Tecno",
+      "model": "Camon 19",
+      "year": 2021,
+      "description": "Tecno Camon 19 has been officially announced on June 15 2022. The display features 6.8 inches IPS LCD display while the resolution is great. It consists of 395 ppi density and comes in ~88.2% screen to body ratio. The smartphone is available in colors like Eco Black Sea Salt White and Digital Green. As far as the camera is concerned the smartphone is integrated with a triple camera on the rear side. It features Quad-LED flash panorama and HDR. On the front there is a 16 MP (wide) camera for clicking selfies. It is powered by MediaTek Helio G85 Octa-core processor while the GPU is Mali-G52 MC2. The device is packed with 4 GB and 6 GB RAM and the internal storage options are 128 GB. Tecno Camon 19 is fuled with Li-Po 5000 mAh + Fast charging 18W battery. The sensors include side-mounted fingerprint accelerometer and proximity. The dimension of the device is 166.6 x 74.4 x 8.3 mm and it supports nano dual SIM. The smartphone runs on Android 12 + HIOS 8.6 operating system.",
+      "id": 2
+    },
+    {
+      "name": "HP",
+      "model": "Elitebook",
+      "year": 2008,
+      "description": "HP EliteBook is a line of business-oriented high-end notebooks and mobile workstations made by Hewlett-Packard (HP Inc.). The EliteBook series, which fits above the lower-end ProBook series, was introduced in August 2008 as a replacement of the HP Compaq high end line of notebooks. Is HP EliteBook any good? Whether you're working from home, returning to the office, or traveling the world, the HP EliteBook will win you over. The EliteBook was released without much fanfare but its snappy performance, picturesque display, and well-distributed lightweight chassis make this a great buy.",
+      "id": 3
+    },
+    {
+      "name": "Samsung",
+      "model": "Galaxy Note 20",
+      "year": 2021,
+      "description": "The Samsung Galaxy Note 20 and Galaxy Note 20 Ultra (stylized and marketed as Samsung Galaxy Note20 and Galaxy Note20 Ultra) are a series of high-end Android-based phablets designed, developed, produced, and marketed by Samsung Electronics as part of their Samsung Galaxy Note series, succeeding the Samsung Galaxy Note 10 series.[3][4][5][6] The phablets were announced on 5 August 2020 alongside the Samsung Galaxy Z Fold 2, Galaxy Watch 3, Galaxy Buds Live and Samsung Galaxy Tab S7 during Samsung's Unpacked Event.[7][8][9][10] It was the final model in the Galaxy Note series, with Samsung beginning to integrate the functionality from the Note series into its S series Ultra models, starting with the Galaxy S22 Ultra.",
+      "id": 4
+    },
+    {
+      "name": "Apple",
+      "model": "Macbook pro",
+      "year": 2019,
+      "description": "The 13-inch MacBook Pro with Touch Bar (released in August 2019) is still one of the most expensive 13-inch laptops out there. The MacBook Pro's price starts at a steep $1,799 with an 8th-Gen, 2.4-GHz Intel Core i5 processor, 8GB of RAM and 246GB of storage. We opted for 16GB of RAM (which I highly recommend for those who keep multiple apps and dozens of tabs open), which adds $200 to the price. Other upgrades include a Core i7 CPU ($300) and several SSD options. Upgrading to 512GB costs $200, while 1TB ($600) and 2TB ($1,200) cost considerably more. Stop me if you've seen and heard this before. The 13-inch MacBook Pro with Touch Bar is a solid and elegant piece of aluminum available in Space Gray or Silver. But the look is getting stale at this point, as the bezels around the screen look pretty thick compared to the likes of the Dell XPS 13 and other Windows notebooks and 2-in-1 laptops.",
+      "id": 5
+    },
+    {
+      "name": "Apple",
+      "model": "Iphone 11",
+      "year": "2019",
+      "description": "The iPhone 11 doesn't look much different than the iPhone XR that preceded it, but at the time of the iPhone 11's introduction, Apple said it was made from the toughest glass ever in a smartphone at the time and offered improved water resistance (IP68) that has become the standard for iPhones, boosting overall durability. Spatial audio offers a more immersive sound experience, and Dolby Atmos is supported.",
+      "id": 6
+    },
+    {
+      "name": "Lenovo",
+      "model": "Thinkpad X1 Carbon",
+      "year": "2019",
+      "description": "The Lenovo ThinkPad X1 Carbon is like a painting. It doesn't change, but every time you go back to it, you find something new to marvel at. And in the world of laptops, the Thinkpad X1 Carbon is a masterpiece. An improvement upon the ThinkPad X1 Carbon 6th Gen, the X1 Carbon 7th Gen is an excellent option for business users who are frequently on the go. But the ThinkPad X1 Carbon isn't just an enterprise notebook: We don't hesitate to recommend this machine to everyday consumers, too, who will appreciate the laptop's bright, vivid 14-inch display, long battery life, fast performance and immaculate build quality.",
+      "id": 9
+    },
+    {
+      "name": "",
+      "model": "",
+      "year": "",
+      "description": "",
+      "id": 10
+    }
+  ]
+}
