@@ -3,7 +3,7 @@ import UseCustomHook from '../useCustomHook';
 import { Link } from 'react-router-dom';
 
 const Blog = () => {
-    let URL = "http://localhost:8000/blogs"
+    let URL = "https://my-json-server.typicode.com/abolarin100/gadgetDb/blogs"
     const {data: data, isLoading, isError} = UseCustomHook(`${URL}`)
     return (
         <div>
