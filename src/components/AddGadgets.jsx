@@ -9,14 +9,14 @@ const AddGadgets = () => {
   const [isLoading, setIsLoading] = useState(false)
   const navigate = useNavigate()
 
-  let URL = "http://localhost:8000/blogs"
+  let URL = "http://https://my-json-server.typicode.com/abolarin100/gadgetDb/blogs"
      const handleSubmit = (e) => {
        e.preventDefault();
 
        const newGadget = {name, model, year, description}
           // console.log(newGadget);
           setIsLoading(true)
-          fetch("http://localhost:8000/blogs", {
+          fetch("https://my-json-server.typicode.com/abolarin100/gadgetDb/blogs", {
             method: 'POST',
           headers: {'Content-Type': 'application/json'},
             body: JSON.stringify(newGadget)
